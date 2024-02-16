@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AC03</string>
+    <string-array name="familia_opcions">
+        <item>""</item>
+        <item>ROBA</item>
+        <item>ELECTRÓNICA</item>
+        <item>ALIMENTACIÓ</item>
+    </string-array>
+    <string name="alerta_confirmar">Confirmar eliminació</string>
+    <string name="alerta_eliminar">Segur que vols eliminar aquest article?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="filtrar">Filtrar</string>
+    <string-array name="opcions_filtre">
+        <item>Estoc activat</item>
+        <item>Ordenar per codi</item>
+        <item>Ordenar per descripcio + codi</item>
+    </string-array>
+    <string name="descripcio_obl">La descripcio és obligatoria</string>
+    <string name="estoc_positiu">L\'estoc ha de ser 0 o positius</string>
+    <string name="camps_obli">Tots els camps son obligatoris</string>
+    <string name="compr_codi">El codi ja existeix a la base de dades</string>
+    <string name="article_afegit">L\'article s\'ha afegit correctament</string>
+    <string name="conf_iva">Configuració de l\' IVA guardada</string>
+    <string name="iva_valid">Afegeix un valor válid per el IVA</string>
+    <string name="codi">Codi</string>
+    <string name="familia">Familia</string>
+    <string name="preu">Preu</string>
+    <string name="preuIva">Preu amb iva</string>
+    <string name="descripcio">Descripcio</string>
+    <string name="estoc">Estoc</string>
+    <string name="guardar">Guardar</string>
+    <string name="estocActivat">Estoc Activat</string>
+    <string name="config">Configuració d\'IVA</string>
+    <string name="valorIva">Introdueix valor d\'IVA</string>
+    <string name="I_codi">Introdueix un codi</string>
+    <string name="I_descripcio">Introdueix una descripcio</string>
+    <string name="I_preu">Introdueix el preu</string>
+    <string name="I_estoc">Introdueix l\'estoc</string>
+</resources>
